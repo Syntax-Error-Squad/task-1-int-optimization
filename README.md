@@ -8,8 +8,8 @@ ____
 ____
 ### 1. Клонируйте репозиторий
 ```bash
-git clone https://github.com/Syntax-Error-Squad/int-optimization.git
-cd int-optimization
+git clone https://github.com/Syntax-Error-Squad/task-1-int-optimization.git
+cd task-1-int-optimization
 ```
 ### 2. Создайте виртуальное окружение
 ```bash
